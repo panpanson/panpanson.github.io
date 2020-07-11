@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="168px" height="200px" viewBox="0 0 168 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>编组 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="85.28%" y1="0%" x2="14.72%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4AE9FF" offset="0%"></stop>
+            <stop stop-color="#FFC8F3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82%" y1="0%" x2="18%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#41A9FF" offset="0%"></stop>
+            <stop stop-color="#D583FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="72.2222222%" y1="0%" x2="27.7777778%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#6426F3" offset="0%"></stop>
+            <stop stop-color="#AA51FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.8">
+        <g id="编组-6">
+            <path d="M84,168 L84,200 L0,200 L0,168 L0,0 L168,0 L168,168 L84,168 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+            <path d="M84,140 L84,168 L28,168 L28,140 L28,28 L140,28 L140,140 L84,140 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+            <path d="M84,112 L84,140 L56,140 L56,112 L56,56 L112,56 L112,112 L84,112 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
